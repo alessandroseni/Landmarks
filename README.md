@@ -9,3 +9,7 @@ The main takeaways from this project were:
 - Learned Xcode 
 - Learned Swift
 - Learned SwiftUI
+
+## Platforms
+- iOS app
+- macOS app
